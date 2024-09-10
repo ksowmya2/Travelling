@@ -45,12 +45,12 @@ body {
     margin-top: 0px;
    }
    .logo-list img{
-       margin-left: 200px;
+       margin-left: 150px;
        width: 150px;
        margin-top: 20px;
    }
    
-   ul {
+   ul{
        display: flex;
        gap:20px;
        margin-left: 200px;
